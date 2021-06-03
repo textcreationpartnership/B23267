@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true account of a great rencounter between an English and French-man of war, near the port of Kingsale in Ireland: with a relation of the taking of the said French-vessel, full of Irish officers and soldiers, and bringing her into Biddiford-Haven, in the west of England. Licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23267</idno><idno type="EEBO-CITATION">99886654</idno>
+  <idno type="VID">187612</idno>
+  <idno type="EEBO-PROQUEST">2240902167</idno>
+  
+            <idno type="STC">Wing F2293C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[51]</idno>
+            <idno type="STC">ESTC R226331</idno>
+            <idno type="PROQUEST">ocm99886654</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886654e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187612)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true account of a great rencounter between an English and French-man of war, near the port of Kingsale in Ireland: with a relation of the taking of the said French-vessel, full of Irish officers and soldiers, and bringing her into Biddiford-Haven, in the west of England. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Downing,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>2689 [i.e. 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication is printed, incorrectly, as 2689.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="relation">
+            <pb facs="tcp:187612:1"/>
+            <head>A Full and True ACCOUNT OF A Great Rencounter BETWEEN AN ENGLISH and FRENCH-Man of War, Near the PORT of Kingsale in Ireland: WITH A RELATION of the Taking of the said <hi>French</hi>-Vessel, full of <hi>Irish</hi> Officers and Soldiers, and bringing Her into <hi>Biddiford</hi>-Haven, in the West of <hi>England.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THough the unreadiness of our own and the <hi>Dutch-Fleet,</hi> this year has given occasion of boldness to the <hi>French-Privateers,</hi> and rendred some few of our <hi>Colliers</hi> and their Small-Vessels to be apprehensive of the Rapacious Insolencies of their <hi>Pickaroons;</hi> yet of late we have made a shift to curb their Sauciness, and make them many times pay for their En<g ref="char:EOLhyphen"/>croachments: the weightiness of our Affairs, which force many of our Vessels to and from <hi>Ireland</hi> of late, has caus'd to be very vigilent on those Coasts, and when any Vessel approaches, if they find it any way feasible, they are sure to ac<g ref="char:EOLhyphen"/>cost and whip her away into some of their Ports, which usage has not only made our Merchants cautious, but our Frigats resolute to suppress their Petty-fogging Robbers; accordingly one of our Frigats of Forty Guns, crusing about the fif<g ref="char:EOLhyphen"/>teenth of this instant upon the Coasts of <hi>Ireland,</hi> made up to the Harbour of <hi>King-Sale,</hi> and upon information that a <hi>French-Pickaroon</hi> lay in that Harbour, the Captain hal'd a small <hi>Fisher-Boat</hi> aboard him, and with a little persuasion and a competent reward engag'd him to go in and pretend to the Governour of the Fort, that an <hi>East-India</hi> Merchant-Man distressed with the Weather, and for want of Provision, was coming in and begg'd the favour of Fresh-Water and Victuals for his Money.</p>
+            <p>The Governour and Garrison were almost out of their Wits, for the Joy of this (as they reckon) so gallant a Prize, and immediately Man out with the best of the Garrison, the small Vessel that lay under the Fort; our Frigot thereupon, seem<g ref="char:EOLhyphen"/>ing to mistrust their Safety, presently hoist Sail, and make to Sea, which embolden the <hi>Irish</hi> Adventurers, and make them eager in the pursuit: The Captain of the Frigot, who before had muzzl'd and drawn in his Guns, when he brought them to his Bow-tacks, and gets between them and the Port, and then shewing them a Broad-side ready bent without resistance, Boards them; and secures the Prisoners, whereof many are Officers, he brought the Vessel into <hi>Bidiford,</hi> a small Port in the West of <hi>England.</hi>
+            </p>
+            <p>Upon discourse with the Prisoners, they confirm the great Defeat of the <hi>Irish</hi> by the Protestants of <hi>London-Derry</hi> in the North of <hi>Ireland:</hi> And further add, <hi>That in the last Sally upon the Papists, amongst the considerable Persons that were kill'd, Colonel</hi> Ramsey <hi>was one; Lord</hi> Netterville, <hi>and some Others, were taken Prisoners, and brought into the Town. That which was reported of</hi> Tyrconnel'<hi>s being Wounded and dangerously Ill, proves to be nothing but the Black Jaundice, of which he has been long Sick.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Downing.</hi> 2689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
